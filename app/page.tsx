@@ -9,6 +9,7 @@ import {
 } from "lucide-react";
 import { TopicCards } from "@/components/site";
 import { HeroCheck, AudienceGuide } from "@/components/blue-home";
+import { MemoryMatch } from "@/components/memory-match";
 export default function Home() {
   return (
     <main id="main">
@@ -31,24 +32,18 @@ export default function Home() {
               <Link className="button primary" href="/learn/">
                 Explore learning <ArrowRight size={19} />
               </Link>
-              <a className="button outline" href="#hero-check">
-                Try a scenario
-              </a>
+              <MemoryMatch />
             </div>
-            <div className="audience-shortcuts">
+{/*             <div className="audience-shortcuts">
               <a href="#teens">
                 <UserRound />
                 For teens
-              </a>
-              <a href="#kids">
-                <Baby />
-                For kids
               </a>
               <a href="#parents">
                 <Users />
                 For parents
               </a>
-            </div>
+            </div> */}
           </div>
           <div className="hero-art">
             <img
@@ -58,7 +53,7 @@ export default function Home() {
               height="1024"
               fetchPriority="high"
             />
-            <HeroCheck />
+           <HeroCheck /> 
           </div>
         </div>
       </section>
@@ -76,35 +71,6 @@ export default function Home() {
           Look out for each other
         </span>
       </div>
-      <section className="section learning-section">
-        <div className="center-heading">
-          <span className="eyebrow">EXPLORE. LEARN. MAKE A DIFFERENCE.</span>
-          <h2>Small lessons. Lifelong digital skills.</h2>
-          <p>Explore five ways to make your online world safer.</p>
-        </div>
-        <TopicCards />
-      </section>
-      <section className="family-section">
-        <div className="section">
-          <div className="center-heading">
-            <span className="eyebrow">DIFFERENT JOURNEYS. A SHARED GOAL.</span>
-            <h2>A safer internet is a team effort.</h2>
-          </div>
-          <AudienceGuide />
-          <div className="blue-banner">
-            <div>
-              <h2>Good digital habits start here.</h2>
-              <p>
-                Practical lessons for a safer, kinder, and brighter online
-                world.
-              </p>
-            </div>
-            <Link href="/learn/" className="button">
-              Start learning <ArrowRight size={19} />
-            </Link>
-          </div>
-        </div>
-      </section>
     </main>
   );
 }

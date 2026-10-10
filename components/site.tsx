@@ -40,6 +40,7 @@ export function TopicIcon({
 export function Header() {
   const path = usePathname();
   const [open, setOpen] = useState(false);
+  const [quizMenuOpen, setQuizMenuOpen] = useState(false);
   return (
     <header className="site-header">
       <div className="nav-wrap">
@@ -85,9 +86,30 @@ export function Header() {
             Social Media Learning
           </Link>
         </nav>
-        <Link className="button nav-cta" href="/learn/">
-          Start learning <Sparkles size={16} />
-        </Link>
+        <div className="quiz-menu">
+          <button
+            className="button nav-cta"
+            type="button"
+            aria-expanded={quizMenuOpen}
+            aria-haspopup="menu"
+            onClick={() => setQuizMenuOpen(!quizMenuOpen)}
+          >
+            Start Quiz <Sparkles size={16} />
+          </button>
+          {quizMenuOpen && (
+            <div className="quiz-menu-panel" role="menu">
+              <span className="quiz-menu-label">Choose your quiz</span>
+              <Link href="/quiz/teens/" role="menuitem" onClick={() => setQuizMenuOpen(false)}>
+                <strong>For Teens</strong>
+                <small>Social media awareness & learning · 15 questions</small>
+              </Link>
+              <Link href="/quiz/parents/" role="menuitem" onClick={() => setQuizMenuOpen(false)}>
+                <strong>For Parents</strong>
+                <small>Practical social media parenting · 15 questions</small>
+              </Link>
+            </div>
+          )}
+        </div>
       </div>
     </header>
   );
@@ -277,7 +299,7 @@ export function Scenario() {
 }
 export function TopicCards() {
   return (
-    <div className="topic-grid">
+    <div className="flex gap-15">
       {topics.map((topic, i) => (
         <Link
           className={"topic-card " + topic.color}
