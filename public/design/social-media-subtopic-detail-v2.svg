@@ -1,0 +1,103 @@
+<svg width="1440" height="1120" viewBox="0 0 1440 1120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="1120" fill="#F7FAFE"/>
+  <rect x="48" y="35" width="1344" height="1050" rx="24" fill="#FFFFFF" stroke="#DCE7F5" stroke-width="2"/>
+
+  <rect x="48" y="35" width="1344" height="82" rx="24" fill="#FFFFFF"/>
+  <line x1="48" y1="117" x2="1392" y2="117" stroke="#E5ECF6" stroke-width="2"/>
+  <rect x="79" y="58" width="38" height="38" rx="11" fill="#0866FF"/>
+  <path d="M88 77L95 70L102 77L95 84L88 77Z" fill="#FFDA55"/>
+  <text x="132" y="83" fill="#14234B" font-family="Arial, sans-serif" font-size="25" font-weight="700">Social</text>
+  <text x="211" y="83" fill="#0866FF" font-family="Arial, sans-serif" font-size="25" font-weight="700">Wise</text>
+  <text x="1040" y="82" fill="#536580" font-family="Arial, sans-serif" font-size="14">All subtopics</text>
+  <text x="1142" y="82" fill="#0866FF" font-family="Arial, sans-serif" font-size="14" font-weight="700">My learning</text>
+  <rect x="1271" y="57" width="91" height="38" rx="10" fill="#0866FF"/>
+  <text x="1290" y="81" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="13" font-weight="700">Quick check</text>
+
+  <rect x="48" y="117" width="1344" height="264" fill="#EAF6FF"/>
+  <text x="100" y="157" fill="#3267A1" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.8">SOCIAL MEDIA LEARNING / SUBTOPIC 01</text>
+  <text x="100" y="211" fill="#14234B" font-family="Arial, sans-serif" font-size="40" font-weight="700">Online learning communities</text>
+  <text x="100" y="251" fill="#536580" font-family="Arial, sans-serif" font-size="16">A good learning community turns a feed into a shared workspace.</text>
+  <text x="100" y="285" fill="#536580" font-family="Arial, sans-serif" font-size="16">Ask clearly, collaborate with care, and leave with a next step.</text>
+  <rect x="1050" y="152" width="265" height="165" rx="18" fill="#FFFFFF" stroke="#CDE3FF" stroke-width="2"/>
+  <text x="1080" y="187" fill="#3267A1" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">YOUR PROGRESS</text>
+  <circle cx="1109" cy="239" r="32" fill="#E4F1FF"/>
+  <path d="M1109 207 A32 32 0 0 1 1137 252" stroke="#0866FF" stroke-width="7" stroke-linecap="round"/>
+  <text x="1099" y="245" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">1/3</text>
+  <text x="1160" y="229" fill="#14234B" font-family="Arial, sans-serif" font-size="16" font-weight="700">Ideas explored</text>
+  <text x="1160" y="252" fill="#536580" font-family="Arial, sans-serif" font-size="13">4 min lesson</text>
+  <text x="1160" y="274" fill="#536580" font-family="Arial, sans-serif" font-size="13">Quick check at the end</text>
+
+  <text x="100" y="432" fill="#3267A1" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.8">LEARN BY DOING</text>
+  <text x="100" y="472" fill="#14234B" font-family="Arial, sans-serif" font-size="28" font-weight="700">Three ideas to try</text>
+  <text x="100" y="500" fill="#536580" font-family="Arial, sans-serif" font-size="14">Tap a card to open the explanation and a practical example.</text>
+
+  <rect x="100" y="527" width="255" height="84" rx="13" fill="#FFFFFF" stroke="#86B9FF" stroke-width="2"/>
+  <circle cx="134" cy="569" r="18" fill="#E4F1FF"/>
+  <text x="129" y="575" fill="#0866FF" font-family="Arial, sans-serif" font-size="14" font-weight="700">01</text>
+  <text x="167" y="561" fill="#14234B" font-family="Arial, sans-serif" font-size="15" font-weight="700">Ask better questions</text>
+  <text x="167" y="583" fill="#0866FF" font-family="Arial, sans-serif" font-size="12">OPENED</text>
+  <text x="322" y="574" fill="#0866FF" font-family="Arial, sans-serif" font-size="22">⌃</text>
+
+  <rect x="367" y="527" width="255" height="84" rx="13" fill="#F4F8FD" stroke="#DCE7F5" stroke-width="2"/>
+  <circle cx="401" cy="569" r="18" fill="#EAF1F9"/>
+  <text x="396" y="575" fill="#536580" font-family="Arial, sans-serif" font-size="14" font-weight="700">02</text>
+  <text x="434" y="561" fill="#14234B" font-family="Arial, sans-serif" font-size="15" font-weight="700">Collaborate with care</text>
+  <text x="434" y="583" fill="#536580" font-family="Arial, sans-serif" font-size="12">TAP TO OPEN</text>
+  <text x="589" y="574" fill="#536580" font-family="Arial, sans-serif" font-size="22">⌄</text>
+
+  <rect x="634" y="527" width="255" height="84" rx="13" fill="#F4F8FD" stroke="#DCE7F5" stroke-width="2"/>
+  <circle cx="668" cy="569" r="18" fill="#EAF1F9"/>
+  <text x="663" y="575" fill="#536580" font-family="Arial, sans-serif" font-size="14" font-weight="700">03</text>
+  <text x="701" y="561" fill="#14234B" font-family="Arial, sans-serif" font-size="15" font-weight="700">Leave with a next step</text>
+  <text x="701" y="583" fill="#536580" font-family="Arial, sans-serif" font-size="12">TAP TO OPEN</text>
+  <text x="856" y="574" fill="#536580" font-family="Arial, sans-serif" font-size="22">⌄</text>
+
+  <rect x="100" y="627" width="789" height="145" rx="15" fill="#EEF7FF" stroke="#CDE3FF" stroke-width="2"/>
+  <text x="128" y="662" fill="#0866FF" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">WHY IT MATTERS</text>
+  <text x="128" y="697" fill="#14234B" font-family="Arial, sans-serif" font-size="18" font-weight="700">A specific question gives peers something to build on.</text>
+  <text x="128" y="724" fill="#536580" font-family="Arial, sans-serif" font-size="13">Include what you tried, where you got stuck, and the kind of help you need.</text>
+  <rect x="128" y="740" width="184" height="10" rx="5" fill="#CDE3FF"/>
+  <rect x="128" y="740" width="119" height="10" rx="5" fill="#0866FF"/>
+  <text x="329" y="750" fill="#536580" font-family="Arial, sans-serif" font-size="11">1 of 3 ideas</text>
+
+  <rect x="930" y="427" width="389" height="345" rx="18" fill="#FFFFFF" stroke="#DCE7F5" stroke-width="2"/>
+  <text x="962" y="466" fill="#3267A1" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.8">AT A GLANCE</text>
+  <text x="962" y="504" fill="#14234B" font-family="Arial, sans-serif" font-size="23" font-weight="700">Build a better group</text>
+  <text x="962" y="531" fill="#536580" font-family="Arial, sans-serif" font-size="13">Small habits make collaboration easier.</text>
+  <line x1="962" y1="553" x2="1288" y2="553" stroke="#E5ECF6" stroke-width="2"/>
+  <circle cx="979" cy="588" r="14" fill="#E4F1FF"/>
+  <text x="974" y="594" fill="#0866FF" font-family="Arial, sans-serif" font-size="12" font-weight="700">1</text>
+  <text x="1008" y="584" fill="#14234B" font-family="Arial, sans-serif" font-size="14" font-weight="700">Be specific</text>
+  <text x="1008" y="605" fill="#536580" font-family="Arial, sans-serif" font-size="12">Name the exact question.</text>
+  <circle cx="979" cy="640" r="14" fill="#E4F1FF"/>
+  <text x="974" y="646" fill="#0866FF" font-family="Arial, sans-serif" font-size="12" font-weight="700">2</text>
+  <text x="1008" y="636" fill="#14234B" font-family="Arial, sans-serif" font-size="14" font-weight="700">Give credit</text>
+  <text x="1008" y="657" fill="#536580" font-family="Arial, sans-serif" font-size="12">Make the source visible.</text>
+  <circle cx="979" cy="692" r="14" fill="#E4F1FF"/>
+  <text x="974" y="698" fill="#0866FF" font-family="Arial, sans-serif" font-size="12" font-weight="700">3</text>
+  <text x="1008" y="688" fill="#14234B" font-family="Arial, sans-serif" font-size="14" font-weight="700">Summarize</text>
+  <text x="1008" y="709" fill="#536580" font-family="Arial, sans-serif" font-size="12">Leave the group with a takeaway.</text>
+  <rect x="962" y="734" width="178" height="16" rx="8" fill="#EAF1F9"/>
+  <rect x="962" y="734" width="132" height="16" rx="8" fill="#0866FF"/>
+  <text x="1153" y="746" fill="#536580" font-family="Arial, sans-serif" font-size="11">Skill progress 75%</text>
+
+  <rect x="100" y="814" width="789" height="185" rx="18" fill="#FFF7DF" stroke="#F2D77D" stroke-width="2"/>
+  <text x="132" y="850" fill="#A27600" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">PRACTICE CHECKPOINT</text>
+  <text x="132" y="887" fill="#14234B" font-family="Arial, sans-serif" font-size="20" font-weight="700">What would you post to your study group?</text>
+  <rect x="132" y="914" width="271" height="47" rx="9" fill="#FFFFFF" stroke="#E6CF7E" stroke-width="2"/>
+  <text x="152" y="943" fill="#536580" font-family="Arial, sans-serif" font-size="12">A. Do it for me</text>
+  <rect x="416" y="914" width="271" height="47" rx="9" fill="#FFFFFF" stroke="#E6CF7E" stroke-width="2"/>
+  <text x="436" y="943" fill="#536580" font-family="Arial, sans-serif" font-size="12">B. Here is my attempt...</text>
+  <rect x="703" y="914" width="154" height="47" rx="9" fill="#0866FF"/>
+  <text x="733" y="943" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="12" font-weight="700">Check answer</text>
+
+  <rect x="930" y="814" width="389" height="185" rx="18" fill="#F4F8FD" stroke="#DCE7F5" stroke-width="2"/>
+  <text x="962" y="850" fill="#3267A1" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.5">KEEP EXPLORING</text>
+  <text x="962" y="887" fill="#14234B" font-family="Arial, sans-serif" font-size="19" font-weight="700">Related subtopics</text>
+  <rect x="962" y="909" width="326" height="30" rx="8" fill="#FFFFFF"/>
+  <text x="976" y="929" fill="#536580" font-family="Arial, sans-serif" font-size="11">Media &amp; information literacy</text>
+  <text x="1257" y="929" fill="#0866FF" font-family="Arial, sans-serif" font-size="15">→</text>
+  <rect x="962" y="947" width="326" height="30" rx="8" fill="#FFFFFF"/>
+  <text x="976" y="967" fill="#536580" font-family="Arial, sans-serif" font-size="11">Responsible content creation</text>
+  <text x="1257" y="967" fill="#0866FF" font-family="Arial, sans-serif" font-size="15">→</text>
+</svg>

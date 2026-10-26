@@ -1,0 +1,100 @@
+<svg width="1440" height="1080" viewBox="0 0 1440 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="1080" fill="#F7FAFE"/>
+  <rect x="48" y="35" width="1344" height="1010" rx="24" fill="#FFFFFF" stroke="#DCE7F5" stroke-width="2"/>
+
+  <rect x="48" y="35" width="1344" height="82" rx="24" fill="#FFFFFF"/>
+  <line x1="48" y1="117" x2="1392" y2="117" stroke="#E5ECF6" stroke-width="2"/>
+  <rect x="79" y="58" width="38" height="38" rx="11" fill="#0866FF"/>
+  <path d="M88 77L95 70L102 77L95 84L88 77Z" fill="#FFDA55"/>
+  <text x="132" y="83" fill="#14234B" font-family="Arial, sans-serif" font-size="25" font-weight="700">Social</text>
+  <text x="211" y="83" fill="#0866FF" font-family="Arial, sans-serif" font-size="25" font-weight="700">Wise</text>
+  <text x="1030" y="82" fill="#536580" font-family="Arial, sans-serif" font-size="14">Home</text>
+  <text x="1093" y="82" fill="#0866FF" font-family="Arial, sans-serif" font-size="14" font-weight="700">Digital Parenting</text>
+  <rect x="1285" y="57" width="77" height="38" rx="10" fill="#0866FF"/>
+  <text x="1304" y="81" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="13" font-weight="700">Start quiz</text>
+
+  <rect x="48" y="117" width="1344" height="250" fill="#EAF9F2"/>
+  <text x="100" y="166" fill="#168F7B" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">PARENTAL GUIDANCE &amp; DIGITAL PARENTING</text>
+  <text x="100" y="220" fill="#14234B" font-family="Arial, sans-serif" font-size="42" font-weight="700">Guide with trust.</text>
+  <text x="100" y="270" fill="#168F7B" font-family="Arial, sans-serif" font-size="42" font-weight="700">Grow digital confidence.</text>
+  <text x="100" y="317" fill="#536580" font-family="Arial, sans-serif" font-size="16">Build family habits that balance boundaries, independence, communication, and care.</text>
+  <rect x="1051" y="159" width="261" height="155" rx="18" fill="#FFFFFF" stroke="#B6E8D4" stroke-width="2"/>
+  <circle cx="1090" cy="198" r="18" fill="#C9F0E1"/>
+  <path d="M1081 202C1085 195 1095 195 1099 202M1084 194C1084 190 1087 188 1090 188C1093 188 1096 190 1096 194" stroke="#168F7B" stroke-width="2" stroke-linecap="round"/>
+  <text x="1122" y="194" fill="#14234B" font-family="Arial, sans-serif" font-size="15" font-weight="700">Family toolkit</text>
+  <text x="1080" y="230" fill="#536580" font-family="Arial, sans-serif" font-size="13">4 parent-focused skills</text>
+  <text x="1080" y="253" fill="#536580" font-family="Arial, sans-serif" font-size="13">Practical cards + examples</text>
+  <text x="1080" y="276" fill="#536580" font-family="Arial, sans-serif" font-size="13">For families and educators</text>
+
+  <text x="100" y="416" fill="#14234B" font-family="Arial, sans-serif" font-size="25" font-weight="700">Choose a parenting skill</text>
+  <text x="100" y="443" fill="#536580" font-family="Arial, sans-serif" font-size="14">Open a card for guidance, conversation prompts, and a practical next step.</text>
+
+  <rect x="100" y="475" width="291" height="190" rx="16" fill="#EEF7FF" stroke="#AFCFFF" stroke-width="2"/>
+  <circle cx="132" cy="513" r="22" fill="#CDEAFF"/>
+  <text x="121" y="519" fill="#0866FF" font-family="Arial, sans-serif" font-size="16" font-weight="700">01</text>
+  <text x="123" y="562" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">Healthy screen-time</text>
+  <text x="123" y="585" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">limits</text>
+  <text x="123" y="617" fill="#536580" font-family="Arial, sans-serif" font-size="12">Build a flexible family plan</text>
+  <text x="123" y="635" fill="#536580" font-family="Arial, sans-serif" font-size="12">around sleep, school, and life.</text>
+  <circle cx="359" cy="621" r="16" fill="#FFFFFF"/>
+  <text x="353" y="627" fill="#0866FF" font-family="Arial, sans-serif" font-size="20" font-weight="700">&gt;</text>
+
+  <rect x="409" y="475" width="291" height="190" rx="16" fill="#FFF7DF" stroke="#F2D77D" stroke-width="2"/>
+  <circle cx="441" cy="513" r="22" fill="#FFF0B5"/>
+  <text x="430" y="519" fill="#A27600" font-family="Arial, sans-serif" font-size="16" font-weight="700">02</text>
+  <text x="432" y="562" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">Monitoring &amp;</text>
+  <text x="432" y="585" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">supervision</text>
+  <text x="432" y="617" fill="#536580" font-family="Arial, sans-serif" font-size="12">Use tools transparently and</text>
+  <text x="432" y="635" fill="#536580" font-family="Arial, sans-serif" font-size="12">match them to age and trust.</text>
+  <circle cx="668" cy="621" r="16" fill="#FFFFFF"/>
+  <text x="662" y="627" fill="#A27600" font-family="Arial, sans-serif" font-size="20" font-weight="700">&gt;</text>
+
+  <rect x="718" y="475" width="291" height="190" rx="16" fill="#F2EEFF" stroke="#D8C8FF" stroke-width="2"/>
+  <circle cx="750" cy="513" r="22" fill="#E3D8FF"/>
+  <text x="739" y="519" fill="#7952C6" font-family="Arial, sans-serif" font-size="16" font-weight="700">03</text>
+  <text x="741" y="562" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">Parent-child</text>
+  <text x="741" y="585" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">communication</text>
+  <text x="741" y="617" fill="#536580" font-family="Arial, sans-serif" font-size="12">Listen first, ask curious</text>
+  <text x="741" y="635" fill="#536580" font-family="Arial, sans-serif" font-size="12">questions, and keep talking.</text>
+  <circle cx="977" cy="621" r="16" fill="#FFFFFF"/>
+  <text x="971" y="627" fill="#7952C6" font-family="Arial, sans-serif" font-size="20" font-weight="700">&gt;</text>
+
+  <rect x="1027" y="475" width="348" height="190" rx="16" fill="#FFF0EC" stroke="#F4C5BD" stroke-width="2"/>
+  <circle cx="1059" cy="513" r="22" fill="#FFDAD4"/>
+  <text x="1048" y="519" fill="#D37565" font-family="Arial, sans-serif" font-size="16" font-weight="700">04</text>
+  <text x="1050" y="562" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">Responsible online</text>
+  <text x="1050" y="585" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">behavior</text>
+  <text x="1050" y="617" fill="#536580" font-family="Arial, sans-serif" font-size="12">Model respect, privacy,</text>
+  <text x="1050" y="635" fill="#536580" font-family="Arial, sans-serif" font-size="12">kindness, and accountability.</text>
+  <circle cx="1345" cy="621" r="16" fill="#FFFFFF"/>
+  <text x="1339" y="627" fill="#D37565" font-family="Arial, sans-serif" font-size="20" font-weight="700">&gt;</text>
+
+  <rect x="100" y="717" width="1275" height="275" rx="18" fill="#FFFFFF" stroke="#B6E8D4" stroke-width="2"/>
+  <rect x="100" y="717" width="7" height="275" rx="3" fill="#168F7B"/>
+  <text x="134" y="755" fill="#168F7B" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.8">SUBTOPIC PREVIEW Â· 01</text>
+  <text x="134" y="797" fill="#14234B" font-family="Arial, sans-serif" font-size="27" font-weight="700">Setting healthy screen-time limits</text>
+  <text x="134" y="829" fill="#536580" font-family="Arial, sans-serif" font-size="14">Create boundaries together so screens support sleep, learning, relationships, and independence.</text>
+  <line x1="134" y1="855" x2="1340" y2="855" stroke="#E5ECF6" stroke-width="2"/>
+
+  <rect x="134" y="882" width="348" height="80" rx="12" fill="#EAF9F2"/>
+  <circle cx="162" cy="912" r="16" fill="#C9F0E1"/>
+  <text x="156" y="918" fill="#168F7B" font-family="Arial, sans-serif" font-size="14" font-weight="700">1</text>
+  <text x="190" y="909" fill="#14234B" font-family="Arial, sans-serif" font-size="14" font-weight="700">Start with priorities</text>
+  <text x="190" y="932" fill="#536580" font-family="Arial, sans-serif" font-size="12">Protect sleep, school, movement, and connection.</text>
+
+  <rect x="501" y="882" width="348" height="80" rx="12" fill="#EEF7FF"/>
+  <circle cx="529" cy="912" r="16" fill="#CDEAFF"/>
+  <text x="523" y="918" fill="#0866FF" font-family="Arial, sans-serif" font-size="14" font-weight="700">2</text>
+  <text x="557" y="909" fill="#14234B" font-family="Arial, sans-serif" font-size="14" font-weight="700">Make the plan mutual</text>
+  <text x="557" y="932" fill="#536580" font-family="Arial, sans-serif" font-size="12">Adults model the same habits they ask for.</text>
+
+  <rect x="868" y="882" width="348" height="80" rx="12" fill="#FFF7DF"/>
+  <circle cx="896" cy="912" r="16" fill="#FFF0B5"/>
+  <text x="890" y="918" fill="#A27600" font-family="Arial, sans-serif" font-size="14" font-weight="700">3</text>
+  <text x="924" y="909" fill="#14234B" font-family="Arial, sans-serif" font-size="14" font-weight="700">Review and adjust</text>
+  <text x="924" y="932" fill="#536580" font-family="Arial, sans-serif" font-size="12">Update boundaries as routines and needs change.</text>
+
+  <rect x="1238" y="900" width="102" height="39" rx="10" fill="#0866FF"/>
+  <text x="1254" y="925" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="12" font-weight="700">Open card &gt;</text>
+  <text x="134" y="977" fill="#7B8EA8" font-family="Arial, sans-serif" font-size="11">Research notes Â· 5 min read Â· Family conversation prompt</text>
+</svg>

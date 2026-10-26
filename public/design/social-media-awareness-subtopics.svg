@@ -1,0 +1,110 @@
+<svg width="1440" height="1120" viewBox="0 0 1440 1120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="1120" fill="#F7FAFE"/>
+  <rect x="48" y="35" width="1344" height="1050" rx="24" fill="#FFFFFF" stroke="#DCE7F5" stroke-width="2"/>
+
+  <rect x="48" y="35" width="1344" height="82" rx="24" fill="#FFFFFF"/>
+  <line x1="48" y1="117" x2="1392" y2="117" stroke="#E5ECF6" stroke-width="2"/>
+  <rect x="79" y="58" width="38" height="38" rx="11" fill="#0866FF"/>
+  <path d="M88 77L95 70L102 77L95 84L88 77Z" fill="#FFDA55"/>
+  <text x="132" y="83" fill="#14234B" font-family="Arial, sans-serif" font-size="25" font-weight="700">Social</text>
+  <text x="211" y="83" fill="#0866FF" font-family="Arial, sans-serif" font-size="25" font-weight="700">Wise</text>
+  <text x="1018" y="82" fill="#536580" font-family="Arial, sans-serif" font-size="14">Home</text>
+  <text x="1081" y="82" fill="#0866FF" font-family="Arial, sans-serif" font-size="14" font-weight="700">Social Media Awareness</text>
+  <rect x="1285" y="57" width="77" height="38" rx="10" fill="#0866FF"/>
+  <text x="1304" y="81" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="13" font-weight="700">Start quiz</text>
+
+  <rect x="48" y="117" width="1344" height="254" fill="#FFF7DF"/>
+  <text x="100" y="166" fill="#947019" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">SOCIAL MEDIA AWARENESS</text>
+  <text x="100" y="220" fill="#14234B" font-family="Arial, sans-serif" font-size="43" font-weight="700">Notice more.</text>
+  <text x="100" y="270" fill="#A27600" font-family="Arial, sans-serif" font-size="43" font-weight="700">Protect what matters.</text>
+  <text x="100" y="319" fill="#536580" font-family="Arial, sans-serif" font-size="16">Build practical habits for safer sharing, clearer thinking, and healthier attention online.</text>
+  <rect x="1051" y="159" width="261" height="157" rx="18" fill="#FFFFFF" stroke="#F2D77D" stroke-width="2"/>
+  <circle cx="1090" cy="198" r="18" fill="#FFF0B5"/>
+  <path d="M1082 198H1098M1090 190V206" stroke="#A27600" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="1122" y="194" fill="#14234B" font-family="Arial, sans-serif" font-size="15" font-weight="700">Your awareness toolkit</text>
+  <text x="1080" y="230" fill="#536580" font-family="Arial, sans-serif" font-size="13">5 focused subtopics</text>
+  <text x="1080" y="253" fill="#536580" font-family="Arial, sans-serif" font-size="13">Cards, actions, and checks</text>
+  <text x="1080" y="276" fill="#536580" font-family="Arial, sans-serif" font-size="13">For teens and trusted adults</text>
+
+  <text x="100" y="417" fill="#14234B" font-family="Arial, sans-serif" font-size="25" font-weight="700">Choose an awareness skill</text>
+  <text x="100" y="444" fill="#536580" font-family="Arial, sans-serif" font-size="14">Open a card to learn the warning signs, protective habits, and next steps.</text>
+
+  <rect x="100" y="475" width="239" height="190" rx="16" fill="#EEF7FF" stroke="#AFCFFF" stroke-width="2"/>
+  <circle cx="132" cy="513" r="22" fill="#CDEAFF"/>
+  <text x="121" y="519" fill="#0866FF" font-family="Arial, sans-serif" font-size="16" font-weight="700">01</text>
+  <text x="123" y="562" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">Online privacy</text>
+  <text x="123" y="585" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">awareness</text>
+  <text x="123" y="617" fill="#536580" font-family="Arial, sans-serif" font-size="12">Protect personal details,</text>
+  <text x="123" y="635" fill="#536580" font-family="Arial, sans-serif" font-size="12">settings, and digital traces.</text>
+  <circle cx="308" cy="621" r="16" fill="#FFFFFF"/>
+  <text x="302" y="627" fill="#0866FF" font-family="Arial, sans-serif" font-size="20" font-weight="700">&gt;</text>
+
+  <rect x="359" y="475" width="239" height="190" rx="16" fill="#FFF0EC" stroke="#F4C5BD" stroke-width="2"/>
+  <circle cx="391" cy="513" r="22" fill="#FFDAD4"/>
+  <text x="380" y="519" fill="#D37565" font-family="Arial, sans-serif" font-size="16" font-weight="700">02</text>
+  <text x="382" y="562" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">Scams &amp;</text>
+  <text x="382" y="585" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">phishing</text>
+  <text x="382" y="617" fill="#536580" font-family="Arial, sans-serif" font-size="12">Spot urgency, fake links,</text>
+  <text x="382" y="635" fill="#536580" font-family="Arial, sans-serif" font-size="12">and requests for secrets.</text>
+  <circle cx="567" cy="621" r="16" fill="#FFFFFF"/>
+  <text x="561" y="627" fill="#D37565" font-family="Arial, sans-serif" font-size="20" font-weight="700">&gt;</text>
+
+  <rect x="618" y="475" width="239" height="190" rx="16" fill="#F2EEFF" stroke="#D8C8FF" stroke-width="2"/>
+  <circle cx="650" cy="513" r="22" fill="#E3D8FF"/>
+  <text x="639" y="519" fill="#7952C6" font-family="Arial, sans-serif" font-size="16" font-weight="700">03</text>
+  <text x="641" y="562" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">Misinformation</text>
+  <text x="641" y="585" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">awareness</text>
+  <text x="641" y="617" fill="#536580" font-family="Arial, sans-serif" font-size="12">Check the source, context,</text>
+  <text x="641" y="635" fill="#536580" font-family="Arial, sans-serif" font-size="12">evidence, and purpose.</text>
+  <circle cx="826" cy="621" r="16" fill="#FFFFFF"/>
+  <text x="820" y="627" fill="#7952C6" font-family="Arial, sans-serif" font-size="20" font-weight="700">&gt;</text>
+
+  <rect x="877" y="475" width="239" height="190" rx="16" fill="#EAF9F2" stroke="#B6E8D4" stroke-width="2"/>
+  <circle cx="909" cy="513" r="22" fill="#C9F0E1"/>
+  <text x="898" y="519" fill="#168F7B" font-family="Arial, sans-serif" font-size="16" font-weight="700">04</text>
+  <text x="900" y="562" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">Healthy screen</text>
+  <text x="900" y="585" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">habits</text>
+  <text x="900" y="617" fill="#536580" font-family="Arial, sans-serif" font-size="12">Protect sleep, focus,</text>
+  <text x="900" y="635" fill="#536580" font-family="Arial, sans-serif" font-size="12">movement, and connection.</text>
+  <circle cx="1086" cy="621" r="16" fill="#FFFFFF"/>
+  <text x="1080" y="627" fill="#168F7B" font-family="Arial, sans-serif" font-size="20" font-weight="700">&gt;</text>
+
+  <rect x="1136" y="475" width="239" height="190" rx="16" fill="#EAF6FF" stroke="#CDE3FF" stroke-width="2"/>
+  <circle cx="1168" cy="513" r="22" fill="#CDEAFF"/>
+  <text x="1157" y="519" fill="#0866FF" font-family="Arial, sans-serif" font-size="16" font-weight="700">05</text>
+  <text x="1159" y="562" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">Online safety</text>
+  <text x="1159" y="585" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">awareness</text>
+  <text x="1159" y="617" fill="#536580" font-family="Arial, sans-serif" font-size="12">Reduce risk, block, report,</text>
+  <text x="1159" y="635" fill="#536580" font-family="Arial, sans-serif" font-size="12">and ask for help early.</text>
+  <circle cx="1345" cy="621" r="16" fill="#FFFFFF"/>
+  <text x="1339" y="627" fill="#0866FF" font-family="Arial, sans-serif" font-size="20" font-weight="700">&gt;</text>
+
+  <rect x="100" y="717" width="1275" height="296" rx="18" fill="#FFFFFF" stroke="#F2D77D" stroke-width="2"/>
+  <rect x="100" y="717" width="7" height="296" rx="3" fill="#A27600"/>
+  <text x="134" y="755" fill="#947019" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.8">SUBTOPIC PREVIEW Â· 01</text>
+  <text x="134" y="797" fill="#14234B" font-family="Arial, sans-serif" font-size="27" font-weight="700">Online privacy awareness</text>
+  <text x="134" y="829" fill="#536580" font-family="Arial, sans-serif" font-size="14">Privacy is a daily practice: share with purpose, check the audience, and protect access.</text>
+  <line x1="134" y1="855" x2="1340" y2="855" stroke="#E5ECF6" stroke-width="2"/>
+
+  <rect x="134" y="882" width="348" height="88" rx="12" fill="#FFF9E9"/>
+  <circle cx="162" cy="912" r="16" fill="#FFF0B5"/>
+  <text x="156" y="918" fill="#A27600" font-family="Arial, sans-serif" font-size="14" font-weight="700">1</text>
+  <text x="190" y="909" fill="#14234B" font-family="Arial, sans-serif" font-size="14" font-weight="700">Know what is personal</text>
+  <text x="190" y="932" fill="#536580" font-family="Arial, sans-serif" font-size="12">Names, locations, routines, and access codes.</text>
+
+  <rect x="501" y="882" width="348" height="88" rx="12" fill="#EEF7FF"/>
+  <circle cx="529" cy="912" r="16" fill="#CDEAFF"/>
+  <text x="523" y="918" fill="#0866FF" font-family="Arial, sans-serif" font-size="14" font-weight="700">2</text>
+  <text x="557" y="909" fill="#14234B" font-family="Arial, sans-serif" font-size="14" font-weight="700">Review your settings</text>
+  <text x="557" y="932" fill="#536580" font-family="Arial, sans-serif" font-size="12">Audience, location, app permissions, and login security.</text>
+
+  <rect x="868" y="882" width="348" height="88" rx="12" fill="#EAF9F2"/>
+  <circle cx="896" cy="912" r="16" fill="#C9F0E1"/>
+  <text x="890" y="918" fill="#168F7B" font-family="Arial, sans-serif" font-size="14" font-weight="700">3</text>
+  <text x="924" y="909" fill="#14234B" font-family="Arial, sans-serif" font-size="14" font-weight="700">Pause before sharing</text>
+  <text x="924" y="932" fill="#536580" font-family="Arial, sans-serif" font-size="12">Imagine the post outside its intended context.</text>
+
+  <rect x="1238" y="900" width="102" height="39" rx="10" fill="#0866FF"/>
+  <text x="1254" y="925" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="12" font-weight="700">Open card &gt;</text>
+  <text x="134" y="994" fill="#7B8EA8" font-family="Arial, sans-serif" font-size="11">Research notes Â· 4 min read Â· Quick check</text>
+</svg>

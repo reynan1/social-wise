@@ -16,8 +16,19 @@ import {
   LockKeyhole,
   Bookmark,
   MoreHorizontal,
+  UsersRound,
+  BookOpenCheck,
+  PenLine,
+  Sprout,
+  BadgeCheck,
+  ArrowRight,
 } from "lucide-react";
-import { topics } from "./topics";
+import {
+  topics,
+  type LearningCard,
+  type LearningCheck,
+  type Subtopic,
+} from "./topics";
 export function TopicIcon({
   name,
   size = 25,
@@ -33,6 +44,11 @@ export function TopicIcon({
         shield: ShieldCheck,
         search: Search,
         heart: HeartHandshake,
+        community: UsersRound,
+        literacy: BookOpenCheck,
+        creation: PenLine,
+        growth: Sprout,
+        factcheck: BadgeCheck,
       } as Record<string, typeof Compass>
     )[name] || Compass;
   return <Icon size={size} strokeWidth={1.7} />;
@@ -299,7 +315,7 @@ export function Scenario() {
 }
 export function TopicCards() {
   return (
-    <div className="flex gap-15">
+    <div className="flex justify-center items-center gap-15">
       {topics.map((topic, i) => (
         <Link
           className={"topic-card " + topic.color}
@@ -325,7 +341,97 @@ export function TopicCards() {
     </div>
   );
 }
-export function Quiz({ topic }: { topic: (typeof topics)[number] }) {
+
+export function SubtopicCards({
+  items,
+  topicSlug = 'social-media-learning',
+}: {
+  items: Subtopic[];
+  topicSlug?: string;
+}) {
+  return (
+    <div className="subtopic-grid">
+      {items.map((item, i) => (
+        <Link
+          className={'subtopic-card ' + item.color}
+          key={item.slug}
+          href={'/learn/' + topicSlug + '/' + item.slug + '/'}
+        >
+          <div className="subtopic-card-top">
+            <span className="subtopic-number">0{i + 1}</span>
+            <span className="topic-icon">
+              <TopicIcon name={item.icon} size={24} />
+            </span>
+          </div>
+          <h3>{item.title}</h3>
+          <p>{item.description}</p>
+          <div className="subtopic-card-bottom">
+            <span>{item.time} lesson</span>
+            <span aria-hidden="true">
+              <ArrowRight size={15} />
+            </span>
+          </div>
+        </Link>
+      ))}
+    </div>
+  );
+}
+
+export function SubtopicInsightCards({ cards }: { cards: LearningCard[] }) {
+  const [active, setActive] = useState(0);
+  const selected = cards[active];
+
+  return (
+    <div className="subtopic-insight">
+      <div className="subtopic-insight-tabs" role="tablist" aria-label="Lesson ideas">
+        {cards.map((card, index) => (
+          <button
+            key={card.label}
+            id={'insight-tab-' + index}
+            className={active === index ? 'active' : ''}
+            role="tab"
+            aria-selected={active === index}
+            aria-controls="insight-panel"
+            onClick={() => setActive(index)}
+          >
+            <span className="insight-tab-number">0{index + 1}</span>
+            <span>
+              <strong>{card.title}</strong>
+              <small>{active === index ? 'OPENED' : 'TAP TO OPEN'}</small>
+            </span>
+            <span className="insight-tab-arrow" aria-hidden="true">
+              {active === index ? '⌃' : '⌄'}
+            </span>
+          </button>
+        ))}
+      </div>
+
+      <div
+        className="subtopic-insight-panel"
+        id="insight-panel"
+        role="tabpanel"
+        aria-labelledby={'insight-tab-' + active}
+      >
+        <span className="eyebrow">{selected.label}</span>
+        <h3>{selected.title}</h3>
+        <p>{selected.body}</p>
+        <div className="insight-prompt">
+          <Sparkles size={15} />
+          <span>{selected.prompt}</span>
+        </div>
+      </div>
+
+      <div className="subtopic-insight-progress" aria-label={'Idea ' + (active + 1) + ' of ' + cards.length}>
+        <span style={{ width: `${((active + 1) / cards.length) * 100}%` }} />
+        <small>
+          {active + 1} of {cards.length} ideas
+        </small>
+      </div>
+    </div>
+  );
+}
+
+export function Quiz({ topic }: { topic: LearningCheck }) {
   const [answer, setAnswer] = useState<number | null>(null);
   return (
     <section className="quiz">

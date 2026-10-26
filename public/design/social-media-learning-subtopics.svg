@@ -1,0 +1,103 @@
+<svg width="1440" height="1050" viewBox="0 0 1440 1050" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1440" height="1050" fill="#F7FAFE"/>
+  <rect x="48" y="35" width="1344" height="980" rx="24" fill="#FFFFFF" stroke="#DCE7F5" stroke-width="2"/>
+
+  <rect x="48" y="35" width="1344" height="82" rx="24" fill="#FFFFFF"/>
+  <line x1="48" y1="117" x2="1392" y2="117" stroke="#E5ECF6" stroke-width="2"/>
+  <rect x="79" y="58" width="38" height="38" rx="11" fill="#0866FF"/>
+  <path d="M88 77L95 70L102 77L95 84L88 77Z" fill="#FFDA55"/>
+  <text x="132" y="83" fill="#14234B" font-family="Arial, sans-serif" font-size="25" font-weight="700">Social</text>
+  <text x="211" y="83" fill="#0866FF" font-family="Arial, sans-serif" font-size="25" font-weight="700">Wise</text>
+  <text x="1064" y="82" fill="#536580" font-family="Arial, sans-serif" font-size="14">Home</text>
+  <text x="1131" y="82" fill="#0866FF" font-family="Arial, sans-serif" font-size="14" font-weight="700">Social Media Learning</text>
+  <rect x="1285" y="57" width="77" height="38" rx="10" fill="#0866FF"/>
+  <text x="1304" y="81" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="13" font-weight="700">Start quiz</text>
+
+  <rect x="48" y="117" width="1344" height="248" fill="#EAF6FF"/>
+  <text x="100" y="164" fill="#3267A1" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="2">SOCIAL MEDIA LEARNING</text>
+  <text x="100" y="219" fill="#14234B" font-family="Arial, sans-serif" font-size="43" font-weight="700">Learn together.</text>
+  <text x="100" y="269" fill="#0866FF" font-family="Arial, sans-serif" font-size="43" font-weight="700">Share responsibly.</text>
+  <text x="100" y="316" fill="#536580" font-family="Arial, sans-serif" font-size="16">Explore five practical skills for learning, creating, and thinking clearly online.</text>
+  <rect x="1051" y="159" width="261" height="151" rx="18" fill="#FFFFFF" stroke="#CDE3FF" stroke-width="2"/>
+  <circle cx="1090" cy="198" r="18" fill="#E4F1FF"/>
+  <path d="M1082 198L1089 191L1097 198L1089 205L1082 198Z" fill="#0866FF"/>
+  <text x="1122" y="194" fill="#14234B" font-family="Arial, sans-serif" font-size="15" font-weight="700">Your learning toolkit</text>
+  <text x="1080" y="230" fill="#536580" font-family="Arial, sans-serif" font-size="13">5 subtopics</text>
+  <text x="1080" y="253" fill="#536580" font-family="Arial, sans-serif" font-size="13">Short lessons + actions</text>
+  <text x="1080" y="276" fill="#536580" font-family="Arial, sans-serif" font-size="13">Quick knowledge checks</text>
+
+  <text x="100" y="411" fill="#14234B" font-family="Arial, sans-serif" font-size="25" font-weight="700">Choose a subtopic</text>
+  <text x="100" y="438" fill="#536580" font-family="Arial, sans-serif" font-size="14">Each card opens its own lesson, activity, and research notes.</text>
+
+  <rect x="100" y="469" width="239" height="180" rx="16" fill="#EEF7FF" stroke="#AFCFFF" stroke-width="2"/>
+  <circle cx="132" cy="507" r="22" fill="#CDEAFF"/>
+  <text x="121" y="513" fill="#0866FF" font-family="Arial, sans-serif" font-size="16" font-weight="700">01</text>
+  <text x="123" y="556" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">Online learning</text>
+  <text x="123" y="579" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">communities</text>
+  <text x="123" y="611" fill="#536580" font-family="Arial, sans-serif" font-size="12">Learn with peers, ask,</text>
+  <text x="123" y="629" fill="#536580" font-family="Arial, sans-serif" font-size="12">and collaborate well.</text>
+  <circle cx="308" cy="611" r="16" fill="#FFFFFF"/>
+  <text x="302" y="617" fill="#0866FF" font-family="Arial, sans-serif" font-size="20" font-weight="700">→</text>
+
+  <rect x="359" y="469" width="239" height="180" rx="16" fill="#FFF7DF" stroke="#F2D77D" stroke-width="2"/>
+  <circle cx="391" cy="507" r="22" fill="#FFF0B5"/>
+  <text x="380" y="513" fill="#A27600" font-family="Arial, sans-serif" font-size="16" font-weight="700">02</text>
+  <text x="382" y="556" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">Media &amp; information</text>
+  <text x="382" y="579" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">literacy</text>
+  <text x="382" y="611" fill="#536580" font-family="Arial, sans-serif" font-size="12">Pause, question, and</text>
+  <text x="382" y="629" fill="#536580" font-family="Arial, sans-serif" font-size="12">check before sharing.</text>
+  <circle cx="567" cy="611" r="16" fill="#FFFFFF"/>
+  <text x="561" y="617" fill="#A27600" font-family="Arial, sans-serif" font-size="20" font-weight="700">→</text>
+
+  <rect x="618" y="469" width="239" height="180" rx="16" fill="#EAF9F2" stroke="#B6E8D4" stroke-width="2"/>
+  <circle cx="650" cy="507" r="22" fill="#C9F0E1"/>
+  <text x="639" y="513" fill="#168F7B" font-family="Arial, sans-serif" font-size="16" font-weight="700">03</text>
+  <text x="641" y="556" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">Responsible content</text>
+  <text x="641" y="579" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">creation</text>
+  <text x="641" y="611" fill="#536580" font-family="Arial, sans-serif" font-size="12">Create with purpose,</text>
+  <text x="641" y="629" fill="#536580" font-family="Arial, sans-serif" font-size="12">credit, and care.</text>
+  <circle cx="826" cy="611" r="16" fill="#FFFFFF"/>
+  <text x="820" y="617" fill="#168F7B" font-family="Arial, sans-serif" font-size="20" font-weight="700">→</text>
+
+  <rect x="877" y="469" width="239" height="180" rx="16" fill="#F2EEFF" stroke="#D8C8FF" stroke-width="2"/>
+  <circle cx="909" cy="507" r="22" fill="#E3D8FF"/>
+  <text x="898" y="513" fill="#7952C6" font-family="Arial, sans-serif" font-size="16" font-weight="700">04</text>
+  <text x="900" y="556" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">Personal development</text>
+  <text x="900" y="579" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">online</text>
+  <text x="900" y="611" fill="#536580" font-family="Arial, sans-serif" font-size="12">Use social spaces to</text>
+  <text x="900" y="629" fill="#536580" font-family="Arial, sans-serif" font-size="12">grow and contribute.</text>
+  <circle cx="1086" cy="611" r="16" fill="#FFFFFF"/>
+  <text x="1080" y="617" fill="#7952C6" font-family="Arial, sans-serif" font-size="20" font-weight="700">→</text>
+
+  <rect x="1136" y="469" width="239" height="180" rx="16" fill="#FFF0EC" stroke="#F4C5BD" stroke-width="2"/>
+  <circle cx="1168" cy="507" r="22" fill="#FFDAD4"/>
+  <text x="1157" y="513" fill="#D37565" font-family="Arial, sans-serif" font-size="16" font-weight="700">05</text>
+  <text x="1159" y="556" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">Facts vs fake news</text>
+  <text x="1159" y="579" fill="#14234B" font-family="Arial, sans-serif" font-size="17" font-weight="700">&amp; credibility</text>
+  <text x="1159" y="611" fill="#536580" font-family="Arial, sans-serif" font-size="12">Use SIFT to investigate</text>
+  <text x="1159" y="629" fill="#536580" font-family="Arial, sans-serif" font-size="12">before you amplify.</text>
+  <circle cx="1345" cy="611" r="16" fill="#FFFFFF"/>
+  <text x="1339" y="617" fill="#D37565" font-family="Arial, sans-serif" font-size="20" font-weight="700">→</text>
+
+  <rect x="100" y="701" width="1275" height="245" rx="18" fill="#FFFFFF" stroke="#CDE3FF" stroke-width="2"/>
+  <rect x="100" y="701" width="7" height="245" rx="3" fill="#0866FF"/>
+  <text x="134" y="737" fill="#3267A1" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1.8">SUBTOPIC PREVIEW · 01</text>
+  <text x="134" y="779" fill="#14234B" font-family="Arial, sans-serif" font-size="27" font-weight="700">Online learning communities</text>
+  <text x="134" y="811" fill="#536580" font-family="Arial, sans-serif" font-size="14">A good learning community turns a feed into a shared workspace.</text>
+  <line x1="134" y1="837" x2="1340" y2="837" stroke="#E5ECF6" stroke-width="2"/>
+  <circle cx="158" cy="875" r="16" fill="#E4F1FF"/>
+  <text x="152" y="881" fill="#0866FF" font-family="Arial, sans-serif" font-size="14" font-weight="700">1</text>
+  <text x="188" y="879" fill="#14234B" font-family="Arial, sans-serif" font-size="14" font-weight="700">Ask better questions</text>
+  <text x="188" y="900" fill="#536580" font-family="Arial, sans-serif" font-size="12">Explain your thinking and invite peer ideas.</text>
+  <circle cx="530" cy="875" r="16" fill="#E4F1FF"/>
+  <text x="524" y="881" fill="#0866FF" font-family="Arial, sans-serif" font-size="14" font-weight="700">2</text>
+  <text x="560" y="879" fill="#14234B" font-family="Arial, sans-serif" font-size="14" font-weight="700">Collaborate with care</text>
+  <text x="560" y="900" fill="#536580" font-family="Arial, sans-serif" font-size="12">Credit people and disagree respectfully.</text>
+  <circle cx="915" cy="875" r="16" fill="#E4F1FF"/>
+  <text x="909" y="881" fill="#0866FF" font-family="Arial, sans-serif" font-size="14" font-weight="700">3</text>
+  <text x="945" y="879" fill="#14234B" font-family="Arial, sans-serif" font-size="14" font-weight="700">Leave with a next step</text>
+  <text x="945" y="900" fill="#536580" font-family="Arial, sans-serif" font-size="12">Save the insight and apply it offline.</text>
+  <rect x="1162" y="861" width="143" height="39" rx="10" fill="#0866FF"/>
+  <text x="1192" y="886" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="13" font-weight="700">Open subtopic →</text>
+  <text x="134" y="926" fill="#7B8EA8" font-family="Arial, sans-serif" font-size="11">Research notes · 4 min read · Quick check</text>
+</svg>

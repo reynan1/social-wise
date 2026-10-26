@@ -6,10 +6,10 @@ export default function Learn(){
           <section className="page-intro">
             <span className="eyebrow">THE LEARNING HUB</span>
             <h1>A smarter scroll<br/>starts <em>right here.</em></h1>
-            <p>Explore five practical topics for your life online.<br/>Each one includes simple actions and a quick knowledge check.</p>
-            <span className="intro-tag">5 topics · Your pace · Real-life skills</span>
+            <p>Explore three practical topics for your life online.<br/>Parental Guidance now includes four focused subtopics.</p>
+            <span className="intro-tag">3 tracks · 5 subtopics · Real-life skills</span>
           </section>
-          <section className="section hub-topics">
+          <section className="section hub-topics !w-[70%]">
             <TopicCards/>
           </section><section className="learning-note">
             <strong>Choose your own starting point.</strong>
